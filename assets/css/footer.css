@@ -1,0 +1,19 @@
+footer {
+    background-color: #333;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .footer-text {
+    color: var(--light);
+    padding: 1em;
+  }
+  
+  footer ul {
+    text-align: center;
+  }
+  
+  footer li {
+    display: inline-block;
+    vertical-align: middle;
+  }
