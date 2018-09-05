@@ -6,15 +6,17 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     z-index: 0;
-    filter: blur(20px);
+    
   } 
   
   .parallax {
     background-image: url(../images/background.jpg);
     min-height: 100%;
+    filter: blur(20px);
   }
   
   .ptext {
+    filter: blur(-20px);
     position: absolute;
     top: 35%;
     width: 100%;
