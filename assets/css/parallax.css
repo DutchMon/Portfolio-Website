@@ -1,6 +1,6 @@
 .parallax {
     position: relative;
-    opacity: 0.70;
+    /* opacity: 0.70; */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -14,6 +14,7 @@
   }
   
   .ptext {
+    opacity: .7;
     position: absolute;
     top: 35%;
     width: 100%;
