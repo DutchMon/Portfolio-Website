@@ -98,6 +98,7 @@
     grid-gap: 1em;
     grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));
     margin-top: 5em;
+    color: var(--dark);
   }
   
   .portfolio img {
