@@ -100,13 +100,10 @@
     margin-top: 5em;
     
   }
-  .title-color {
-    color: var(--dark);
-  }
   
   .portfolio img {
     width: 800px;
-    height: auto;
+    height: 300px;
     box-shadow: var(--shadow);
     position: relative;
     width: 100%;
